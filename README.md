@@ -43,7 +43,7 @@ Things I like to do:
 
 <h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown by im-kamil
+  Made with :heart: &nbsp;using GitHub Markdown by Syedrafey1
   <br />
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
